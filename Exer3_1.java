@@ -20,7 +20,7 @@ public class Exer3_1 {
 		System.out.print("Enter integer: ");
 		num = input.nextInt();
 		
-		// processing & print out
+		// processing & print output
 		if (num % 2 == 0)
 			System.out.print("Number is even");
 		else
